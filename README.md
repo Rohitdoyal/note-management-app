@@ -5,5 +5,5 @@ npm install
 npm start
 ```
 
-#deploy site
+# deploy site
 https://notemanagement.netlify.app/
