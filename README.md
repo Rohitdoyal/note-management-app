@@ -1,2 +1,6 @@
-# note-management-app
-Note management app using react js
+# Run the code
+
+```
+npm install
+npm start
+```

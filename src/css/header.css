@@ -1,0 +1,45 @@
+.header{
+   
+    height: 100px;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+
+.header h1{
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+   
+    margin-left: 25%;
+    margin-top: 15px;
+    padding:10px ;
+    
+   
+
+
+    
+}
+.header h1:hover{
+    font-weight: bold;
+    
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    margin-top: 25px;
+    margin-left: 26%;
+    transition: cubic-bezier(0.215, 0.610, 0.355, 1);
+    box-shadow: 2px 2px 22px 2px rgb(143, 143, 143);
+    border-radius: 25px;
+    
+}
+
+.header button{
+    font-weight: bold;
+    height: 30px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px rgb(207, 207, 207);
+    background-color: white;
+}

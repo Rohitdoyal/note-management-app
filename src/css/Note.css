@@ -1,0 +1,25 @@
+.note{
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px 2px gray;
+}
+
+
+
+.delete-icon{ 
+    font-size: 5em; 
+    float: left; 
+    margin: 3px 20px; 
+    -webkit-transition: 0.6s ease-out;
+    -moz-transition:  0.6s ease-out;
+    transition:  0.6s ease-out;
+  }
+  
+ 
+   
+    
+    .delete-icon :hover {
+        color: red;
+      -webkit-transform: rotateZ(720deg);
+      -moz-transform: rotateZ(720deg);
+      transform: rotateZ(720deg);
+    }
